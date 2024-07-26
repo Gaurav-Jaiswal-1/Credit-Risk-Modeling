@@ -30,7 +30,7 @@ The model uses a Random Forest algorithm to classify customers into these priori
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/credit-risk-model.git
+   git clone https://github.com/Gaurav-Jaiswal-1/Credit-Risk-Management.git
    cd credit-risk-model
    ```
 
@@ -65,4 +65,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This README provides a clear overview of your project, how to get started, and what files are included. Adjust the file names and URLs according to your actual repository structure.
+
