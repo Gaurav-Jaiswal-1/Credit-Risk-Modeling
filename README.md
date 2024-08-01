@@ -1,5 +1,6 @@
    
-###Loan Eligibility Prediction###
+**Loan Eligibility Prediction:**
+
 This project involves developing a machine learning model to predict loan eligibility for customers based on their financial and demographic data. The dataset includes various features such as income, employment status, credit score, and more. The goal is to classify each customer as eligible or ineligible for a loan, helping financial institutions make informed lending decisions.
 ---
 
