@@ -26,5 +26,4 @@ This project involves predicting loan eligibility using various banking metrics.
 
 These metrics are essential for analyzing customer data and making informed lending decisions.
 
----
 
